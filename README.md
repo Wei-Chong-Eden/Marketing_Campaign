@@ -11,11 +11,17 @@
 **Reference:** https://medium.com/ai-in-plain-english/targeted-marketing-with-machine-learning-38de28162483
 
 ## Categorical Features Exploratory Analysis
-pic
+<p float="left">
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Discrimination_ability_of_categories.png" width="470" />
+</p>
 
 ## Numerical Features Exploratory Analysis
-pic1: Numerical Features Correlation Matrix
-pic2: Discribution by response
+<p float="left">
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Numerical_Features_Correlation_Matrix.png" width="470" />
+</p>
+<p float="left">
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Discribution_by_response.png" width="470" />
+</p>
 
 ## Train-Test-Split
 Split data before further processing to avoid data leakage that makes model evaluation overly optimistic.
@@ -48,14 +54,19 @@ Automate the whole pre-processing process (from feature engineering to data tran
 ### Feature Extration & Selection
 * Use PCA to figure out the most imporant features explained variance by each component
 * Chi-Square Test for Categorical Variables and Binned Continuous Variables
-  pic
+  <p float="left">
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Features'_worth_by_Chi-Squared_statistic_test.png" width="470" />
+  </p>
 * Random Forest and Feature Importances
 
 ## Model Evaluation using Cross-Validation
 * Split the training set into a smaller training set and a validation set, then train the models against the smaller training set and evaluate them against the validation set. 
 * Compare various models using ROC curves and ROC AUC scores.
-pic
-
+<p float="left">
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Classifier_ROC_Curve_and%20ROC_AUC_scores_Comparison_Cross-Validation.png" width="470" />
+</p>
 ## Evaluate the System on the Test Set
 Evaluation models on test set using ROC curves and ROC AUC scores.    
-pic
+<p float="left">
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Classifier_evaluation_on_test_set.png" width="470" />
+</p>
