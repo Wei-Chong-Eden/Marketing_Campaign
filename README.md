@@ -12,15 +12,15 @@
 
 ## Categorical Features Exploratory Analysis
 <p float="left">
-  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Discrimination_ability_of_categories.png" width="470" />
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Discrimination_ability_of_categories.png" width="600" />
 </p>
 
 ## Numerical Features Exploratory Analysis
 <p float="left">
-  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Numerical_Features_Correlation_Matrix.png" width="470" />
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Numerical_Features_Correlation_Matrix.png" width="600" />
 </p>
 <p float="left">
-  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Discribution_by_response.png" width="470" />
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Discribution_by_response.png" width="600" />
 </p>
 
 ## Train-Test-Split
@@ -55,7 +55,7 @@ Automate the whole pre-processing process (from feature engineering to data tran
 * Use PCA to figure out the most imporant features explained variance by each component
 * Chi-Square Test for Categorical Variables and Binned Continuous Variables
   <p float="left">
-  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Features'_worth_by_Chi-Squared_statistic_test.png" width="470" />
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Features'_worth_by_Chi-Squared_statistic_test.png" width="600" />
   </p>
 * Random Forest and Feature Importances
 
@@ -63,11 +63,11 @@ Automate the whole pre-processing process (from feature engineering to data tran
 * Split the training set into a smaller training set and a validation set, then train the models against the smaller training set and evaluate them against the validation set. 
 * Compare various models using ROC curves and ROC AUC scores.
 <p float="left">
-  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Classifier_ROC_Curve_and%20ROC_AUC_scores_Comparison_Cross-Validation.png" width="470" />
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Classifier_ROC_Curve_and%20ROC_AUC_scores_Comparison_Cross-Validation.png" width="600" />
 </p>
 
 ## Evaluate the System on the Test Set
 Evaluation models on test set using ROC curves and ROC AUC scores.    
 <p float="left">
-  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Classifier_evaluation_on_test_set.png" width="470" />
+  <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Classifier_evaluation_on_test_set.png" width="600" />
 </p>
