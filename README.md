@@ -6,7 +6,7 @@
 ## Code and Resources
 **Python Version:** 3.8   
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, scipy     
-**Modules:** MinMaxScaler, PowerTransformer, OneHotEncoder, PCA, KBinsDiscretizer, LogisticRegression, GaussianNB, RandomForestClassifier, Pipeline, GridSearchCV, ColumnTransformer 
+**Modules:** MinMaxScaler, PowerTransformer, OneHotEncoder, PCA, KBinsDiscretizer, LogisticRegression, GaussianNB, RandomForestClassifier, Pipeline, GridSearchCV, ColumnTransformer  
 **Dataset:** Kaggle - targeted_marketing_campaign   
 **Reference:** https://medium.com/ai-in-plain-english/targeted-marketing-with-machine-learning-38de28162483
 
