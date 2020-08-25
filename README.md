@@ -65,6 +65,7 @@ Automate the whole pre-processing process (from feature engineering to data tran
 <p float="left">
   <img src="https://github.com/Wei-Chong-Eden/Marketing_Campaign/blob/master/images/Classifier_ROC_Curve_and%20ROC_AUC_scores_Comparison_Cross-Validation.png" width="470" />
 </p>
+
 ## Evaluate the System on the Test Set
 Evaluation models on test set using ROC curves and ROC AUC scores.    
 <p float="left">
