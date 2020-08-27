@@ -26,7 +26,8 @@
 ## Train-Test-Split
 Split data before further processing to avoid data leakage that makes model evaluation overly optimistic.
 
-## Multivariate Outlier Detection and Removal with Mahalanobis Distance
+## Data Preprocessing
+### Multivariate Outlier Detection and Removal with Mahalanobis Distance
 Mahalanobis distance is an effective multivariate distance metric that measures the distance between a point and a distribution. It is an extremely useful metric having, excellent applications in multivariate anomaly detection, classification on highly imbalanced datasets and one-class classification. 
 
 ### Feature Engineering
