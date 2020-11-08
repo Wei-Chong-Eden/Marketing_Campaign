@@ -1,6 +1,6 @@
 # Marketing Campaign Response Prediction Project Overview
 * The main objective of this project is to train a predictive model that predicts who will respond to an offer for a product or service. as it allows the company to maximize the profit of the next marketing campaign.
-* Analyzed the data of a fictitious company to select approachable customers and increase the profit of a marketing campagin.
+* Analyzed the data of a fictitious company to select approachable customers and increase the profit of a marketing campaign.
 * Developed a response model that provides a significant boost to the efficiency of a marketing campaign by increasing responses or reducing expenses.
 
 ## Code and Resources
